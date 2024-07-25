@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+button{
+  background-color: transparent;
+  border: none;
+}
+
+.task-list-background {
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+
+li{
+  background-color: white;
+  padding: 5px;
+}
+
+.completed-task{
+  font-size: 10px !important;
+  
+}
